@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo2.png</file>
+        <file>aircaft_factory.cpp</file>
+        <file>aircraft.h</file>
+        <file>aircraft_factory.h</file>
+        <file>airport.cpp</file>
+        <file>airport.h</file>
+        <file>craft.cpp</file>
+        <file>craft_factory.h</file>
+        <file>crafts.h</file>
+        <file>data.cpp</file>
+        <file>data.h</file>
+        <file>helicopter.h</file>
+        <file>helicopter_factory.cpp</file>
+        <file>helicopter_factory.h</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>start_window.cpp</file>
+        <file>start_window.h</file>
+    </qresource>
+</RCC>

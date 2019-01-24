@@ -1,0 +1,13 @@
+#ifndef CRAFT_H
+#define CRAFT_H
+class Craft {
+public:
+    int max_altitude;
+    int range;
+    QString name;
+    QString registration;
+    QString airline;
+    int speed;
+
+};
+#endif // CRAFT_H
